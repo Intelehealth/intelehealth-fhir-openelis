@@ -1,2 +1,2 @@
-# intelehealth-path-openelis
-Repository for Path OpenELIS
+# intelehealth-fhir-openelis
+Repository for FHIR OpenELIS
